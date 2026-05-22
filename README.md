@@ -179,11 +179,6 @@ sparx dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Avinash-1994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=6E40C9&icon_color=FFD700&text_color=a9b1d6&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-1994&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6E40C9&text_color=a9b1d6&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Avinash-1994&theme=tokyonight&hide_border=true&ring=6E40C9&fire=FFD700&currStreakLabel=6E40C9" />
 </div>
 
